@@ -1,0 +1,6 @@
+{
+    "output": "$filename$.js",
+    "paths": {
+        "src" : "/"
+    }
+}

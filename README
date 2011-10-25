@@ -1,0 +1,5 @@
+ALPACA HTML5 is a new version of the ALPACA adventure game engine designed to work in modern browsers without Flash. It's built on top of cocos2D-javascript, which is itself built on cocos2D, a popular game engine for the iOS platform. This will allow an iOS version of ALPACA to be developed in tandem.
+
+This is pre-pre-alpha right now, so only the bare minimum of features have been implemented. Keep an eye out for updates!
+
+http://alpacaengine.com

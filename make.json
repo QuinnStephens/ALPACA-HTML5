@@ -1,0 +1,6 @@
+{
+    "output": "alpacahtml5.js",
+    "paths": {
+        "src" : "/"
+    }
+}
